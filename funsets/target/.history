@@ -1,0 +1,15 @@
+compile
+test
+exists(singletonSet(1),_>5)
+test
+run
+submit natasha.mn7@gmail.com OSi7oiPAXJBbHTjH
+compile
+test
+run
+test
+compile
+test
+run
+submit natasha.mn7@gmail.com OSi7oiPAXJBbHTjH
+exit

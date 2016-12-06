@@ -1,0 +1,9 @@
+compile
+test
+run
+submit natasha.mn7@gmail.com PNDT08sSIELDvCJ8
+submit "natasha.mn7@gmail.com PNDT08sSIELDvCJ8"
+submit "natasha.mn7@gmail.com" "PNDT08sSIELDvCJ8"
+run
+submit PNDT08sSIELDvCJ8
+submit
